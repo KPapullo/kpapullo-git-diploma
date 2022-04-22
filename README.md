@@ -1,7 +1,7 @@
 
 ## Папулло Екатерина
 
-![Моё фото]"C:\Netology\kpapullo-git-diploma\img\Katya Papullo.jpg"
+![Моё фото](C:\Netology\kpapullo-git-diploma\img\Katya Papullo.jpg)
 
 
 студент, мать, гражданин, человек.
